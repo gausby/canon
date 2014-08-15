@@ -1,3 +1,3 @@
 | Title                                              | Martin | Mathias | Tobias |
 |:---------------------------------------------------|-------:|--------:|-------:|
-| [Forrest Gump](#2)                                 |        |       9 |      9 |
+| [Forrest Gump](https://github.com/gausby/canon/issues/2) |        |       9 |      9 |
