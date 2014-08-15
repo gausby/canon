@@ -1,3 +1,3 @@
 | Title                                              | Martin | Mathias | Tobias |
 |:---------------------------------------------------|-------:|--------:|-------:|
-| Movie title                                        |      1 |       5 |     10 |
+| [Arrested Development](https://github.com/gausby/canon/issues/3) |        |       10 |      8 |
